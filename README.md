@@ -28,7 +28,7 @@ The script converts a hexadecimal string into bytes and parses the BPB structure
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bpb-parser.git
+    git clone https://github.com/kengentenerende/BootSector_and_BPB.git
     ```
    
 2. Navigate to the project directory:
