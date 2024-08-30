@@ -33,12 +33,12 @@ The script converts a hexadecimal string into bytes and parses the BPB structure
    
 2. Navigate to the project directory:
     ```bash
-    cd bpb-parser
+    cd BootSector_and_BPB
     ```
    
 3. Run the script:
     ```bash
-    python bpb_parser.py
+    python bootsector_bpb_calculator.py
     ```
 
 4. Enter the hexadecimal string when prompted. The script will display the parsed BPB fields on separate lines.
